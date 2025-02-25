@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HimanshuChauhan-01
+- 👋 Hi, I’m Himanshu Chauhan
 - 👀 I’m interested in Web development and DSA
 - 🌱 I’m currently learning CPP
 - 💞️ I’m looking to collaborate on Web projects
